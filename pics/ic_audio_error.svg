@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   height="24px"
+   viewBox="0 0 24 24"
+   width="24px"
+   fill="#000000"
+   version="1.1"
+   id="svg916"
+   sodipodi:docname="ic_audio_error.svg"
+   inkscape:version="1.1 (c4e8f9e, 2021-05-24)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs920" />
+  <sodipodi:namedview
+     id="namedview918"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="true"
+     inkscape:zoom="44.370951"
+     inkscape:cx="10.626322"
+     inkscape:cy="14.502732"
+     inkscape:window-width="2560"
+     inkscape:window-height="1303"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg916"
+     inkscape:showpageshadow="false">
+    <inkscape:grid
+       type="xygrid"
+       id="grid1000" />
+  </sodipodi:namedview>
+  <path
+     d="m 3,9 v 6 h 4 l 5,5 V 4 L 7,9 Z"
+     id="path914"
+     sodipodi:nodetypes="ccccccc" />
+  <path
+     style="color:#000000;fill:#000000;-inkscape-stroke:none"
+     d="m 14,7 -1,1 8,8 1,-1 z"
+     id="path1054"
+     sodipodi:nodetypes="ccccc" />
+  <path
+     style="color:#000000;fill:#000000;-inkscape-stroke:none"
+     d="m 13,15 1,1 8,-8 -1,-1 z"
+     id="path1346"
+     sodipodi:nodetypes="ccccc" />
+</svg>

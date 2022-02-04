@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- цвета для начального отображения status bar при старте активити,
+         значения должны быть как в theme/Color.kt-->
+    <color name="light_primary">#FF00668a</color>
+    <color name="dark_primary">#FF71d1ff</color>
+</resources>
